@@ -1,0 +1,49 @@
+  nav.navbar {
+	height: 100px;
+}
+
+.main-menu {
+	justify-content: flex-end;
+}
+
+.mail-fluidS {
+    background-color: #ffe1bd;
+    
+}
+
+.jumbotron {
+    background-color: #ffe1bd;
+    flex-direction: column;
+}
+
+.colgray {
+    background-color: 	#e5e5e5;
+}
+
+.btn-primary {
+	background-color: #ffffff;
+	color: #000000;
+	border-color: #000000;
+	border-radius: 25px;
+	text-transform: lowercase;
+}
+
+.btn-dark {
+	background-color: #000000;
+	color: #ffffff;
+	border-color: #ffffff;
+}
+
+.btn-primary:hover {
+	background-color: #000000;
+	color: #ffffff;
+	border-color: #ffffff;
+}
+
+.section-title {
+	text-align: center;
+}
+
+p {
+	padding: 0px;
+}
